@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+
+            "includePath": [
+                "${default}",
+                
+                "C:\\VulkanSDK\\1.3.224.0\\Include\\vulkan",
+                "C:\\Waqas\\Vulkan\\Init\\glm"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "ENABLE_DEBUG_LAYERS"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.33.31629/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+            
+        }
+    ],
+    "version": 4
+}

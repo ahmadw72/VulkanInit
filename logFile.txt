@@ -1,0 +1,8 @@
+Launching Vulkan Application:
+- Layers overridden by "Synchronization" configuration.
+- Application: vkcube
+- Executable: C:\Waqas\Vulkan\Init\main.exe
+- Working Directory: C:\Waqas\Vulkan\Init
+- Command-line Arguments: --suppress_popups
+- Log file: C:\Waqas\Vulkan\Init\logFile.txt
+Process terminated
